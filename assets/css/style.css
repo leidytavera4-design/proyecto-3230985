@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(14, 216, 235);
+}
+
+
+#container{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(231, 238, 238);
+    box-shadow: 0px 0px 10px rgb(24, 4, 37);
+
+}
+
+#header{
+    height: 120px;
+    background-color: rgb(161, 156, 187);
+    padding: 20px;
+
+}
+
+#logo{
+    padding: 10px;
+    margin-left: 20px;
+    float: left;
+}
+
+#logo img{
+    float: left;
+    height: 100px;
+}
+
+#logo a{
+    float:left;
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: rgb(255, 0, 157);
+    
+
+}
